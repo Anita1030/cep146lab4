@@ -76,3 +76,4 @@ The purpose of this policy is to uphold **academic integrity** as a fundamental 
 - [Seneca Academic Integrity Policy](https://www.senecacollege.ca/about/policies/academic-integrity-policy.html)  
 - [Academic Appeals Policy](https://www.senecacollege.ca/about/policies/academic-appeals-policy.html)  
 - [Student Code of Conduct](https://www.senecacollege.ca/about/policies/student-code-of-conduct.html)  
+End
